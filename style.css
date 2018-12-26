@@ -1,0 +1,188 @@
+.root{
+	max-width: 640px;
+	height: 100vh;
+	margin: 0 auto;
+	background: #f2f2f2;
+}
+.top{
+	height: 2.12rem;
+	width: 10.80rem;
+	position: fixed;
+	top: 0;
+	display: flex;
+	flex-wrap: wrap;
+	background: #F2F2F2;
+	
+}
+.top1{
+	height:1.22rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 0.37rem;
+	box-sizing: border-box;
+}
+.top2{
+	width:100%;
+	height: 0.9rem;
+	display: flex;
+	padding-left: 0.37rem;
+	overflow-x: auto;
+	
+}
+.logo{
+	height: 0.48rem;
+	width: 0.74rem;
+}
+.logo img{
+	height: 0.48rem;
+	width: 0.74rem;
+	display: block;
+}
+.kuang{
+	width: 7.73rem;
+	height: 0.91rem;
+	box-shadow:0 0 6px #e6e6e6;
+	background: white;
+}
+.denglu{
+	width: 0.46rem;
+	height: 0.58rem;
+}
+.denglu-text{
+	font-size: 0.58rem;
+	color: #aeaeae;
+	display: block;
+	line-height: 0.58rem;
+}
+.kuang-text{
+	font-size: 0.4rem;
+	line-height: 0.91rem;
+	margin-left: 0.3rem;
+	color: #b1b1b1;
+}
+.top2 ul {
+	width: 300%;
+	height: 100%;
+	color: #6d6d6d;
+	margin-right: 0.87rem;
+	line-height: 0.9rem;
+	display: flex;
+	
+}
+.top2 li{
+	height:0.9rem ;
+	flex-shrink: 0;
+	margin-right: 0.8rem;
+	font-size: 0.36rem;
+	
+}
+.top2 ul li:first-child{
+	border-bottom: 0.05rem solid #ed5f00;
+	color: #ff6b00;
+}
+.top2::-webkit-scrollbar{
+	height: 0;
+	width: 0;
+}
+/* 头结束 */
+.lunbotu{
+	width: 100%;
+	height: 5.35rem;
+	background: #ED5F00;
+	position: relative;
+	overflow: hidden;
+	margin-top: 2.1rem;
+}
+.lunbotu img{
+	width: 100%;
+	height: 5.35rem;
+}
+.xuangxiang{
+	width: 100%;
+	height: 4.54rem;
+	background: #AEAEAE;
+	display: flex;
+	flex-wrap: wrap;
+}
+.xuangxiang a{
+	display: block;
+	width: 20%;
+	height: 50%;
+}
+.xuangxiang img{
+	width: 100%;
+	height: 100%;
+}
+.gg{
+	height: 7.62rem;
+	widows: 100%;
+	margin-top: 0.2rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+}
+.gg1{
+	height: 100%;
+	width: 49.5%;
+	background: red;
+}
+.gg1 img{
+	height: 100%;
+	width: 100%;
+}
+.gg2{
+	height: 49.5%;
+	width: 100%;
+	background: red;
+}
+.gg2 img{
+	width: 100%;
+	height: 100%;
+}
+.g22{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+	width: 49.5%;
+}
+.gg3{
+	width: 100%;
+	height: 4.25rem;
+	background: black;
+	margin-top: 0.25rem;
+}
+.gg3 img{
+	width: 100%;
+	height: 100%;
+}
+.gg4{
+	width: 100%;
+	height: 6.66rem;
+	margin-top: 0.25rem;
+	
+}
+.gg4 img{
+	width: 100%;
+	height: 100%
+	
+}
+.gg5{
+	height: 30.5rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.gg5-left{
+	height: 30.5rem;
+	width: 49.5%;
+	background: #ED5F00;
+}
+.gg5-right{
+	height: 30.5rem;
+	width: 49.5%;
+	background: #000000;
+}
