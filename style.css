@@ -175,14 +175,118 @@
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
+	margin-top: 0.1rem ;
 }
 .gg5-left{
 	height: 30.5rem;
 	width: 49.5%;
-	background: #ED5F00;
 }
 .gg5-right{
 	height: 30.5rem;
 	width: 49.5%;
-	background: #000000;
 }
+.gg5-left1{
+	width: 100%;
+	height: 7.7rem;
+	
+}
+.gg5-left1 img{
+	width: 100%;
+	height: 5.5rem;
+}
+.gg5-text{
+	display: flex;
+	font-size: 0.42rem;
+	margin-left: 0.43rem;
+}
+.gg5-text1{
+	display: flex;
+	font-size: 0.3rem;
+	color: #6a6a6a;
+	margin-left: 0.43rem;
+	margin-top: 0.1rem;
+}
+.gg5-text2{
+	display: flex;
+	font-size: 0.34rem;
+	color: #bc6b4e;
+	margin-left:0.43rem ;
+	margin-top:0.1rem ;
+	height: 0.77rem;
+	width: 80%;
+}
+.gg6{
+	height: 30.5rem;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 0.1rem;
+}
+.gg6-text2{
+	display: flex;
+	font-size: 0.28rem;
+	color: #7e7e7e;
+	text-decoration: line-through;
+	
+}
+.gd{
+	width: 100%;
+	height: 1.5rem;
+	border-top: 0.01rem solid #d0d0d0;
+	box-sizing: border-box;
+	font-size: 0.37rem;
+	color: #535353;
+	text-align: center;
+	line-height: 1.5rem;
+	margin-top: 0.3rem;
+}
+.dibu{
+	height: 1.3rem;
+	width: 100%;
+	background: #fff;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.dibu1{
+	width: 100%;
+	height: 0.9rem;
+	margin-top: 0.2rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+}
+.shouye{
+	width: 1rem;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.dibu1 img{
+	width: 0.6rem;
+	height: 0.6rem;
+	
+}
+
+.dibu1-text{
+	font-size: 0.3rem;
+	color: #ff6700;
+	
+}
+.dibu1-text1{
+	font-size: 0.3rem;
+	color: #cfcfcf;
+	
+}
+.dibu1-text2{
+	font-size: 0.3rem;
+	color: #cfcfcf;
+	
+}
+.dibu1-text3{
+	font-size: 0.3rem;
+	color: #cfcfcf;
+	
+}
+
