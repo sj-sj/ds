@@ -9,6 +9,7 @@
 	width: 10.80rem;
 	position: fixed;
 	top: 0;
+	z-index: 999;
 	display: flex;
 	flex-wrap: wrap;
 	background: #F2F2F2;
