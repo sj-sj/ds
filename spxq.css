@@ -221,11 +221,20 @@
 }
 
 .pl{
-	width: 100%;
+	width: 95%;
 	height: 6.80rem;
 	margin-top: 0.25rem;
 	margin-left: 0.4rem;
 	overflow-x: auto;
+	
+}
+.pl::--webkit-scrollbar{
+	height: 0;
+	width: 0;
+}
+.pl::-widkit-scrollbar{
+	width: 0;
+	height: 0;
 }
 .pl ul{
 	width: 350%;

@@ -1,0 +1,111 @@
+.root{
+	max-width: 640px;
+	height: 100vh;
+	margin: 0 auto;
+	background: #fff;
+}
+.box1{
+	width: 100%;
+	height: 1.4rem;
+	display: flex;
+	position: fixed;
+	background: #B1B1B1;
+	left:0;
+	right:0;
+	top:0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wenzi{
+	font-size: 0.4rem;
+	line-height: 1.42rem;
+	margin-left: 3.5rem;
+}
+.zuo{
+	width: 2.27rem;
+	height: 100%;
+	background: #F2F2F2;
+	overflow-y: auto ;
+}
+.fanhui img{
+	width: 0.55rem;
+	height: 0.6rem;
+	margin-left: 0.55rem;
+}
+.k1{
+	width: 100%;
+	height: 1.65rem;
+	border-bottom: 0.03rem solid #dedede;
+	padding-left: 0.46rem;
+	box-sizing: border-box;
+	margin-top: 1.4rem;
+	display: flex;
+}
+.k2{
+	height: 100%;
+	width: 1.65rem;
+	font-size: 0.4rem;
+	color: #353535;
+	line-height:1.65rem ;
+}
+.k3{
+	height: 100%;
+	width: 6rem;
+	font-size: 0.4rem;
+	color: #747474;
+	line-height:1.65rem ;
+	margin-left: 0.5rem;
+}
+.k11{
+	width: 100%;
+	height: 1.65rem;
+	border-bottom: 0.03rem solid #dedede;
+	padding-left: 0.46rem;
+	box-sizing: border-box;
+	display: flex;
+}
+.k22{
+	height: 100%;
+	width: 2rem;
+	font-size: 0.4rem;
+	color: #353535;
+	line-height:1.65rem ;
+}
+.k111{
+	width: 100%;
+	height: 1.65rem;
+	border-bottom: 0.03rem solid #dedede;
+	padding-left: 0.46rem;
+	padding-right: 0.6rem;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-between;
+}
+.k222{
+	height: 100%;
+	width: 10rem;
+	font-size: 0.4rem;
+	color: #353535;
+	line-height:1.65rem ;
+}
+.k33{
+	height: 100%;
+	width: 1rem;
+	font-size: 0.4rem;
+	color: #747474;
+	line-height:1.65rem ;
+	margin-left: 0.5rem;
+	
+}
+.bc{
+	height: 1.5rem;
+	width: 100%;
+	background: #ff6801;
+	font-size: 0.45rem;
+	line-height: 1.5rem;
+	text-align: center;
+	color: #fff;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}

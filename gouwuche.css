@@ -1,0 +1,270 @@
+.root{
+	max-width: 640px;
+	height: 100vh;
+	margin: 0 auto;
+	background: #f2f2f2;
+}
+.box1{
+	width: 100%;
+	height: 1.4rem;
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+	position: fixed;
+	background: #B1B1B1;
+	left:0;
+	right:0;
+	top:0;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wenzi{
+	font-size: 0.4rem;
+	line-height: 1.42rem;
+}
+.fanhui img{
+	width: 0.55rem;
+	height: 0.6rem;
+	margin-left: 0.55rem;
+}
+.sousuo img{
+	width: 0.62rem;
+	height: 0.62rem;
+	margin-right: 0.55rem;
+}
+.shangping{
+	width: 100%;
+	height: 3.45rem;
+	display: flex;
+	margin-top: 1.4rem;
+	flex-wrap: wrap;
+	border-bottom: 5px solid #f8f8f8;
+	box-sizing: border-box;
+}
+.duigou{
+	width: 0.9rem;
+	height: 100%;
+}
+.duigou img{
+	width: 0.6rem;
+	height: 0.6rem;
+	margin-top: 1.4rem;
+	margin-left: 0.15rem;
+}
+.shangping1{
+	height: 2.65rem;
+	width: 2.65rem;
+	margin-top: 0.4rem;
+	border: 3px solid #f1f1f1;
+	box-sizing: border-box;
+}
+.shangping1 img{
+	height: 100%;
+	width: 100%;
+}
+.jieshao{
+	width: 4.8rem;
+	height: 0.4rem;
+	font-size: 0.4rem;
+	color: #4f4f4f;
+}
+.jieshao3{
+	width: 4.8rem;
+	height: 0.34rem;
+	font-size: 0.34rem;
+	color: #b3b3b3;
+	margin-top: 0.25rem;
+}
+.jieshao2{
+	margin-top: 0.63rem;
+	margin-left: 0.3rem;
+	width: 6.4rem;
+	height: 2.17rem;
+}
+.jiajian{
+	width: 100%;
+	height: 0.98rem; 
+	margin-top: 0.25rem;
+	display: flex;
+	justify-content: space-between;
+}
+.jiajian1{
+	width: 2.76rem;
+	height: 100%;
+	border: 3px solid #ededed;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-around;
+	
+}
+.jian{
+	width: 33.33%;
+	height: 100%;
+	background: #fbfbfb;
+}
+.jian img {
+	width:  0.45rem;
+	height:  0.45rem;
+	margin-bottom: 0.4rem;
+	margin-left: 0.2rem;
+}
+.jia{
+	width: 33.33%;
+	height: 100%;
+	background: #f3f3f3;
+}
+.jia img {
+	width: 0.45rem;
+	height:  0.45rem;
+	margin-bottom: 0.4rem;
+	margin-left: 0.2rem;
+}
+.shuzi{
+	width: 33.33%;
+	height: 100%;
+	font-size: 0.35rem;
+	text-align: center;
+	line-height: 0.98rem ;
+	color: #3c3c3c;
+}
+.shanchu{
+	height: 0.5rem;
+	width: 0.5rem;
+	margin-top: 0.27rem;
+}
+.shanchu img{
+	height: 100%;
+	width: 100%;
+	margin-bottom: 0.6rem;
+}
+.wxts{
+	width: 100%;
+	height: 0.97rem;
+	background: #fff;
+	font-size: 0.33rem;
+	color: #b1b1b1;
+	text-align: center;
+	line-height: 0.97rem;
+	border-top: 5px solid #f7f7f7;
+}
+.tu{
+	height: 2rem;
+	width: 100%;
+}
+.tu img{
+	height: 100%;
+	width: 100%;
+}
+.dengduo{
+	height: 7.05rem;
+	width: 100%;
+	margin-top: 0.12rem;
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.sp1{
+	width: 49.5%;
+	height: 7.05rem;
+}
+.sp11{
+	width: 100%;
+	height: 5.35rem;
+}
+.sp11 img{
+	width: 100%;
+	height: 100%;
+}
+.sp2{
+	width: 49.5%;
+	height: 7.05rem;
+}
+.baomihua{
+	height: 0.38rem;
+	width: 4.4rem;
+	font-size: 0.38rem;
+	color: #3a3a3a;
+	text-align: center;
+	margin-top: 0.3rem;
+	margin-left: 0.5rem;
+}
+.baomihua1{
+	height: 0.34rem;
+	width: 1rem;
+	font-size: 0.34rem;
+	color: #e77400;
+	margin-top: 0.3rem;
+	margin-left: 0.7rem;
+}
+.baomihua2{
+	height: 0.38rem;
+	width: 4.4rem;
+	font-size: 0.38rem;
+	color: #3a3a3a;
+	text-align: center;
+	margin-top: 0.3rem;
+	margin-left: 0.2rem;
+}
+.baomihua3{
+	height: 0.34rem;
+	width: 1rem;
+	font-size: 0.34rem;
+	color: #e77400;
+	margin-top: 0.3rem;
+	margin-left: 1rem;
+}
+.dibu{
+	height: 1.5rem;
+	width: 100%;
+	display: flex;
+}
+.dibu2{
+	height: 100%;
+	width: 3.6rem;
+}
+.dibu2-text{
+	width: 2.3rem;
+	height: 0.36rem;
+	font-size: 0.36rem;
+	color: #979797;
+	margin-top: 0.22rem;
+	margin-left: 0.34rem;
+}
+.dibu1-text3{
+	height: 0.5rem;
+	width: 1.5rem;
+	margin-top: 0.18rem;
+	margin-left: 0.8rem;
+	display: flex;
+}
+.dibu1-text4{
+	width: 0.6rem;
+	height: 0.45rem;
+	font-size: 0.45rem;
+	color: #FF6700;
+	font-weight: 900;
+}
+.dibu1-text5{
+	font-size: 0.34rem;
+	color: #a3a3a3;
+	margin-left: 0.55rem;
+	margin-top: 0.1rem;
+}
+.dibu3{
+	height: 100%;
+	width: 3.6rem;
+	font-size: 0.4rem;
+	color: #323232;
+	line-height: 1.5rem;
+	text-align: center;
+	background: #f4f4f4;
+}
+.dibu4{
+	height: 100%;
+	width: 3.6rem;
+	font-size: 0.4rem;
+	color: #fff;
+	line-height: 1.5rem;
+	text-align: center;
+	background: #ff6801;
+}
